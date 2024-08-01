@@ -22,6 +22,7 @@ public class FifteenDaysOfWeatherAlarmsTest extends AbstractAccuweatherTest {
                 .statusLine("HTTP/1.1 401 Unauthorized");
     }
 
+    //зачем тут этот метод? он будет мешать.
     private io.restassured.RestAssured given() {
     }
 }
