@@ -10,4 +10,5 @@
 
 Если проект по какой-то причине недоступен — можно взять другой. Примеры приложены в презентации.
 
-[AccuWeather.postman_collection.json](https://github.com/user-attachments/files/16452124/AccuWeather.postman_collection.json)
+
+![Screenshot_2](https://github.com/user-attachments/assets/14b71a69-370c-45f1-b702-12529bbc509f)
