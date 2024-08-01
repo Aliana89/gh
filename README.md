@@ -10,5 +10,6 @@
 
 Если проект по какой-то причине недоступен — можно взять другой. Примеры приложены в презентации.
 
+![Screenshot_1](https://github.com/user-attachments/assets/924072d1-f511-4fff-9ae6-d78df72f0c6e)
 
 ![Screenshot_2](https://github.com/user-attachments/assets/14b71a69-370c-45f1-b702-12529bbc509f)
