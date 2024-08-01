@@ -9,3 +9,5 @@
 3. Запушить проект в GIT, не забыть приложить коллекцию Postman с тестами.
 
 Если проект по какой-то причине недоступен — можно взять другой. Примеры приложены в презентации.
+
+[AccuWeather.postman_collection.json](https://github.com/user-attachments/files/16452124/AccuWeather.postman_collection.json)
