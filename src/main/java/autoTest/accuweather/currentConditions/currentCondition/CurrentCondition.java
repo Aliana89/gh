@@ -1,5 +1,6 @@
 
-package autoTest.accuweather.currentConditions;
+package autoTest.accuweather.currentConditions.currentCondition;
+
 
 
 import com.fasterxml.jackson.annotation.JsonInclude;
